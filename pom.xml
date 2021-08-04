@@ -136,6 +136,12 @@
                 <artifactId>commons-lang3</artifactId>
                 <version>3.8</version>
             </dependency>
+            <!--查看对象信息-->
+            <dependency>
+                <groupId>org.openjdk.jol</groupId>
+                <artifactId>jol‐core</artifactId>
+                <version>0.9</version>
+            </dependency>
         </dependencies>
     </dependencyManagement>
 </project>
